@@ -1,0 +1,25 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imageoptim": "^1.0.4",
+    "gulp-responsive": "git+ssh://git@github.com/thejase/gulp-responsive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejase/thejase.com-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejase/thejase.com-images/issues"
+  },
+  "homepage": "https://github.com/thejase/thejase.com-images#readme"
+}
